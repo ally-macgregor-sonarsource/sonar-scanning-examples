@@ -4,6 +4,7 @@
 .project
 .settings/
 bin/
+.vscode/
 
 # Build output
 build/
@@ -22,3 +23,6 @@ bw-outputs/
 
 # MSBuild
 obj/
+
+# Hosted on config info
+hosted_on.txt
