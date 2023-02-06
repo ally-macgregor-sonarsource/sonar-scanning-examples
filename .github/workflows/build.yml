@@ -1,4 +1,4 @@
-name: Build
+name: Build and run SonarQube scanner
 on:
   push:
     branches:
